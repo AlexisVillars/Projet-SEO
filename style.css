@@ -651,8 +651,9 @@ h4 {
 .img-responsive{
     max-width: 100%;
     display: block;
-    height: auto;
-    width: auto;
+    height: 100%;
+    width: 100%;
+    margin: auto;
 }
 
 
